@@ -1,5 +1,6 @@
 # Python-Projects-forTCS
 Examples of Python projects I worked on with students at theCoderSchool along with teaching comments and notes. This example is my own code and own comments. Student versions would vary depending on how advanced the student was and how independently they worked on the project.
+<b>This project is something I used for teaching. Some parts of the code are not optimized or organized for the sake of being clearer for younger students who are still learning the basics of coding </b>
 
 ## TICTACTOE PYTHON NOTES
 Many comments were left in the code. Students wrote the code in trinket.io (online code editor) that allowed them to easily run their code and work with Turtle in Python. Primarily focused toward older students with a strong grasp of Python, functions, arrays, booleans, loops
